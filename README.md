@@ -10,6 +10,8 @@ Utilicé **Google AI Studio** para la realización del Frontend hice una **Histo
 
 Para el Backend la IA, ya teniendo el Frontend, la IA realizó todo el Backend teniendo en cuenta el Frontend.
 
+Utilice Mongo DB para la Base de Datos.
+
 ## Tecnologías Utilizadas
 - Google AI Studio
 - Node.js
