@@ -6,7 +6,9 @@
 
 Este proyecto es para la realización de un sistema de **Gestión y Administración de los Ingresos y Gastos** del Taxi. 
 
-Utilicé **Google AI Studio** para la realización del Frontend y el Backend pasando una **Historia de Usuario** muy detallada para que la IA pudiera hacer la interfaz gráfica.
+Utilicé **Google AI Studio** para la realización del Frontend hice una **Historia de Usuario** muy detallada para que la IA pudiera hacer la interfaz gráfica.
+
+Para el Backend la IA, ya teniendo el Frontend, la IA realizó todo el Backend teniendo en cuenta el Frontend.
 
 ## Tecnologías Utilizadas
 - Google AI Studio
