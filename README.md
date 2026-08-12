@@ -2,6 +2,7 @@
 <img width="800" height="225" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
+
 # Control Taxi
 
 Este proyecto es para la realización de un sistema de **Gestión y Administración de los Ingresos y Gastos** del Taxi. 
@@ -11,6 +12,7 @@ Utilicé **Google AI Studio** para la realización del Frontend hice una **Histo
 Para el Backend la IA, ya teniendo el Frontend, la IA realizó todo el Backend teniendo en cuenta el Frontend.
 
 Utilice Mongo DB para la Base de Datos.
+
 
 ## Tecnologías Utilizadas
 - Google AI Studio
@@ -23,6 +25,7 @@ Utilice Mongo DB para la Base de Datos.
 
 Este proyecto tiene la finalidad de crear una interfaz gráfica de un **Dashboard** para la **Administración y Gestión** de los **Ingresos y Gastos** del taxi.
 
+
 ## Funcionalidades principales
 
 - Panel de Control
@@ -34,6 +37,7 @@ Este proyecto tiene la finalidad de crear una interfaz gráfica de un **Dashboar
 - CRUD de gastos de Seguro
 - CRUD de gastos de Patente
 - CRUD del Perfil del Usuario
+
 
 ## Imágenes del Sistema
 
